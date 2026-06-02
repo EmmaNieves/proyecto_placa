@@ -4,3 +4,8 @@ __pycache__/
 *.pyo
 *.pyd
 .env
+datasets/
+yolov8n.pt
+placas.yaml
+debug_crop.jpg
+debug_processed.jpg
